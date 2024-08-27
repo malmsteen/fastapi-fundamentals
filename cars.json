@@ -1,15 +1,15 @@
 [
     {
-        "size": "s",
-        "fuel": "gasoline",
-        "doors": 3,
+        "size": "postman-sizexxx",
+        "fuel": "electric",
+        "doors": 6,
         "transmission": "auto",
         "id": 1
     },
     {
-        "size": "s",
+        "size": "test-size",
         "fuel": "electric",
-        "doors": 3,
+        "doors": 60,
         "transmission": "auto",
         "id": 2
     },
